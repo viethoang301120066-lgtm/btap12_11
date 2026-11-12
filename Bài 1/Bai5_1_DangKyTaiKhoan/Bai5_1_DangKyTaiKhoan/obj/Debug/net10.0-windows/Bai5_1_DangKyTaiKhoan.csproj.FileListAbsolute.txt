@@ -1,0 +1,30 @@
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.exe
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.deps.json
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.runtimeconfig.json
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.dll
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.pdb
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.dll
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\refint\Bai5_1_DangKyTaiKhoan.dll
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.pdb
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.genruntimeconfig.cache
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\ref\Bai5_1_DangKyTaiKhoan.dll
+C:\Users\Dell\Downloads\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_D.0B38EF03.Up2Date
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.exe
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.deps.json
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.runtimeconfig.json
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.dll
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\bin\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.pdb
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.dll
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\refint\Bai5_1_DangKyTaiKhoan.dll
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.pdb
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_DangKyTaiKhoan.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\ref\Bai5_1_DangKyTaiKhoan.dll
+C:\Users\ADMIN\Downloads\BaiTHngay12-11-main\BaiTHngay12-11-main\Bài 1\Bai5_1_DangKyTaiKhoan\Bai5_1_DangKyTaiKhoan\obj\Debug\net10.0-windows\Bai5_1_D.0B38EF03.Up2Date
